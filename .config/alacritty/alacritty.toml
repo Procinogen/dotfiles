@@ -1,0 +1,48 @@
+[colors.dim]
+yellow = "#d37f39"
+
+[colors.normal]
+black = "#171732"
+blue = "#4a3d87"
+cyan = "#cfbcff"
+green = "#36c987"
+magenta = "#9b80e5"
+red = "#c9365d"
+white = "#f1eff8"
+yellow = "#e1bf79"
+
+[colors.primary]
+background = "#171732"
+foreground = "#f1eff8"
+
+[colors.selection]
+background = "#e1bf79"
+text = "#171732"
+
+[cursor.style]
+blinking = "Always"
+shape = "Block"
+
+[font]
+size = 10
+
+[font.glyph_offset]
+x = 0
+y = 0
+
+[font.normal]
+family = "xos4 Terminus"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 0
+
+[window]
+decorations = "full"
+dynamic_padding = true
+opacity = 0.95
+
+[window.padding]
+x = 20
+y = 20
