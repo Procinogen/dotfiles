@@ -11,3 +11,4 @@ These are the dotfiles for my theme that I've called Petrichor. As of now, these
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai)
 * [cli-visualizer](https://github.com/PosixAlchemist/cli-visualizer)
+* [polybar-spotify](https://github.com/PrayagS/polybar-spotify)
