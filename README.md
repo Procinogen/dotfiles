@@ -15,3 +15,4 @@ My system is using Manjaro as its operating system (which, like I've said, I pla
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai)
 * [cli-visualizer](https://github.com/PosixAlchemist/cli-visualizer)
 * [polybar-spotify](https://github.com/PrayagS/polybar-spotify)
+* [textfox](https://github.com/adriankarlen/textfox)
